@@ -1,0 +1,7 @@
+Bubble Sort - too slow
+Insertion Sort - too slow
+Selection Sort - too slow
+Merge Sort - perfect
+Quick Sort - too slow
+Heap Sort - perfect
+Timsort - perfect

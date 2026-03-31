@@ -1,0 +1,12 @@
+This project benchmarks seven sorting algorithms (Bubble, Insertion, Selection, Merge, Quick, Heap, and Timsort)
+across 8 dataset sizes and 5 data patterns, measuring execution time in seconds for each combination.
+Results are saved to JSON files organized by dataset type, with O(n*2) algorithms automatically skipped on large datasets.
+The benchmark demonstrates how different algorithms perform under various conditions.
+The clear winner would be Timsort showing superior performance on nearly-sorted data.
+
+Data patterns used:
+Random
+Sorted
+Almost Sorted
+Flat
+Reverse Sorted

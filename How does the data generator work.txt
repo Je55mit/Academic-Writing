@@ -1,0 +1,8 @@
+How does the data_generator work?
+
+The function generateData<T>(size, type) is a template that produces a list of a given size, filled according to one of five strategies:
+RANDOM — fills each element with a random integer in [0, 999] via rand() % 1000
+SORTED — fills sequentially: 0, 1, 2, ..., size-1. Perfectly ascending order.
+REVERSE_SORTED — fills in reverse in a perfectly descending order.
+ALMOST_SORTED — starts with the same sorted sequence as above, then performs size/10 random swaps between arbitrary index pairs. So 10% of the size determines how many disruptions are introduced — a 1000-element array gets ~100 swaps.
+FLAT — fills every element with the constant value 42. All elements are identical.

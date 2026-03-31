@@ -1,0 +1,393 @@
+{
+  "datasetType": "FLAT",
+  "tests": [
+    {
+      "size": 30,
+      "results": [
+      {
+        "algorithm": "Bubble Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.000003,
+        "skipped": false
+      },
+      {
+        "algorithm": "Insertion Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.000000,
+        "skipped": false
+      },
+      {
+        "algorithm": "Selection Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.000003,
+        "skipped": false
+      },
+      {
+        "algorithm": "Merge Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000008,
+        "skipped": false
+      },
+      {
+        "algorithm": "Quick Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000002,
+        "skipped": false
+      },
+      {
+        "algorithm": "Heap Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000001,
+        "skipped": false
+      },
+      {
+        "algorithm": "Timsort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000000,
+        "skipped": false
+      }
+      ]
+    },
+    {
+      "size": 75,
+      "results": [
+      {
+        "algorithm": "Bubble Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.000022,
+        "skipped": false
+      },
+      {
+        "algorithm": "Insertion Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.000000,
+        "skipped": false
+      },
+      {
+        "algorithm": "Selection Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.000017,
+        "skipped": false
+      },
+      {
+        "algorithm": "Merge Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000015,
+        "skipped": false
+      },
+      {
+        "algorithm": "Quick Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000014,
+        "skipped": false
+      },
+      {
+        "algorithm": "Heap Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000002,
+        "skipped": false
+      },
+      {
+        "algorithm": "Timsort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000003,
+        "skipped": false
+      }
+      ]
+    },
+    {
+      "size": 100,
+      "results": [
+      {
+        "algorithm": "Bubble Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.000032,
+        "skipped": false
+      },
+      {
+        "algorithm": "Insertion Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.000000,
+        "skipped": false
+      },
+      {
+        "algorithm": "Selection Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.000034,
+        "skipped": false
+      },
+      {
+        "algorithm": "Merge Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000023,
+        "skipped": false
+      },
+      {
+        "algorithm": "Quick Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000021,
+        "skipped": false
+      },
+      {
+        "algorithm": "Heap Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000003,
+        "skipped": false
+      },
+      {
+        "algorithm": "Timsort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000005,
+        "skipped": false
+      }
+      ]
+    },
+    {
+      "size": 1000,
+      "results": [
+      {
+        "algorithm": "Bubble Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.002875,
+        "skipped": false
+      },
+      {
+        "algorithm": "Insertion Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.000007,
+        "skipped": false
+      },
+      {
+        "algorithm": "Selection Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.003218,
+        "skipped": false
+      },
+      {
+        "algorithm": "Merge Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000341,
+        "skipped": false
+      },
+      {
+        "algorithm": "Quick Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.001634,
+        "skipped": false
+      },
+      {
+        "algorithm": "Heap Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000030,
+        "skipped": false
+      },
+      {
+        "algorithm": "Timsort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000101,
+        "skipped": false
+      }
+      ]
+    },
+    {
+      "size": 10000,
+      "results": [
+      {
+        "algorithm": "Bubble Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.253244,
+        "skipped": false
+      },
+      {
+        "algorithm": "Insertion Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.000089,
+        "skipped": false
+      },
+      {
+        "algorithm": "Selection Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": 0.303338,
+        "skipped": false
+      },
+      {
+        "algorithm": "Merge Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.003118,
+        "skipped": false
+      },
+      {
+        "algorithm": "Quick Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.156959,
+        "skipped": false
+      },
+      {
+        "algorithm": "Heap Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.000311,
+        "skipped": false
+      },
+      {
+        "algorithm": "Timsort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.001489,
+        "skipped": false
+      }
+      ]
+    },
+    {
+      "size": 100000,
+      "results": [
+      {
+        "algorithm": "Bubble Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": null,
+        "skipReason": "Would take too long - O(n²) complexity on large dataset",
+        "skipped": true
+      },
+      {
+        "algorithm": "Insertion Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": null,
+        "skipReason": "Would take too long - O(n²) complexity on large dataset",
+        "skipped": true
+      },
+      {
+        "algorithm": "Selection Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": null,
+        "skipReason": "Would take too long - O(n²) complexity on large dataset",
+        "skipped": true
+      },
+      {
+        "algorithm": "Merge Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.030869,
+        "skipped": false
+      },
+      {
+        "algorithm": "Quick Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": null,
+        "skipReason": "too long",
+        "skipped": true
+      },
+      {
+        "algorithm": "Heap Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.002855,
+        "skipped": false
+      },
+      {
+        "algorithm": "Timsort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.018130,
+        "skipped": false
+      }
+      ]
+    },
+    {
+      "size": 1000000,
+      "results": [
+      {
+        "algorithm": "Bubble Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": null,
+        "skipReason": "Would take too long - O(n²) complexity on large dataset",
+        "skipped": true
+      },
+      {
+        "algorithm": "Insertion Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": null,
+        "skipReason": "Would take too long - O(n²) complexity on large dataset",
+        "skipped": true
+      },
+      {
+        "algorithm": "Selection Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": null,
+        "skipReason": "Would take too long - O(n²) complexity on large dataset",
+        "skipped": true
+      },
+      {
+        "algorithm": "Merge Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.360541,
+        "skipped": false
+      },
+      {
+        "algorithm": "Quick Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": null,
+        "skipReason": "too long",
+        "skipped": true
+      },
+      {
+        "algorithm": "Heap Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.023641,
+        "skipped": false
+      },
+      {
+        "algorithm": "Timsort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.213033,
+        "skipped": false
+      }
+      ]
+    },
+    {
+      "size": 10000000,
+      "results": [
+      {
+        "algorithm": "Bubble Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": null,
+        "skipReason": "Would take too long - O(n²) complexity on large dataset",
+        "skipped": true
+      },
+      {
+        "algorithm": "Insertion Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": null,
+        "skipReason": "Would take too long - O(n²) complexity on large dataset",
+        "skipped": true
+      },
+      {
+        "algorithm": "Selection Sort",
+        "complexity": "O(n²)",
+        "timeInSeconds": null,
+        "skipReason": "Would take too long - O(n²) complexity on large dataset",
+        "skipped": true
+      },
+      {
+        "algorithm": "Merge Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 4.072750,
+        "skipped": false
+      },
+      {
+        "algorithm": "Quick Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": null,
+        "skipReason": "too long",
+        "skipped": true
+      },
+      {
+        "algorithm": "Heap Sort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 0.244759,
+        "skipped": false
+      },
+      {
+        "algorithm": "Timsort",
+        "complexity": "O(n log n)",
+        "timeInSeconds": 2.637802,
+        "skipped": false
+      }
+      ]
+    }
+  ]
+}
